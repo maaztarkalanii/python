@@ -1,4 +1,4 @@
-#in this programm we are going to be work with some of the variable and data types 
+#in this programm we are going to be work with some of the variables and data types 
 #Data types in programming represent the kind of data that a variable can hold.
 # Data types determine what operations can be performed on the data,
 # how much memory is allocated to store the data, and how the data is represented internally. 
@@ -20,4 +20,13 @@ print(sum)
 name = "Maaz Ali"
 print(name)
   
+# it will print the name 
+
+is_sunny = True
+is_raining = False
+#now this is actually boolean value which only givw two value true or false 
+# we will study this in detail later .
+
+
+
 
